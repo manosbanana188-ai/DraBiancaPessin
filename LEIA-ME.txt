@@ -1,0 +1,15 @@
+SITE DRA. BIANCA PESSIN — INSTRUÇÕES DE PUBLICAÇÃO
+
+Arquivos
+- index.html ........ página completa (usa a pasta images/)
+- images/ ........... fotos e logo
+- og-image.jpg ...... imagem que aparece ao compartilhar o link (WhatsApp, Instagram, Facebook)
+- favicon.png, apple-touch-icon.png ... ícones (o ícone da aba já está embutido no index.html)
+
+ANTES DE PUBLICAR
+1) Envie index.html, images/ e og-image.jpg para a raiz do projeto na hospedagem (og-image.jpg ao lado do index.html).
+   As tags de prévia do link já apontam para https://drabiancapessin.vercel.app/ . Se o endereço mudar,
+   troque esse endereço nas tags canonical, og:url, og:image, twitter:image e no bloco JSON-LD do index.html.
+2) Confirmar com a profissional: autorização escrita dos pacientes (fotos antes/depois e avaliações),
+   e-mail de contato para privacidade (opcional) e revisão jurídica da Política de Privacidade.
+3) Se for instalar Google Analytics / Meta Pixel, ative-os somente depois do "Aceitar todos" (chave bp_cookie = "all" no localStorage).
